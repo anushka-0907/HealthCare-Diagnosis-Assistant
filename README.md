@@ -4,7 +4,7 @@ This is a Streamlit-based web application that predicts potential diseases based
 
 ## Demo
 
-👉 [Live App on Streamlit Cloud](https://healthcare-diagnosis-assistant-nd6exsduhksa5mtoozbhuh.streamlit.app)
+[Live App on Streamlit Cloud](https://healthcare-diagnosis-assistant-nd6exsduhksa5mtoozbhuh.streamlit.app)
 
 ---
 
