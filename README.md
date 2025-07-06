@@ -1,14 +1,14 @@
-# 🩺 Healthcare Diagnosis Assistant
+# Healthcare Diagnosis Assistant
 
 This is a Streamlit-based web application that predicts potential diseases based on user-selected symptoms and suggests corresponding health precautions.
 
-## 🚀 Demo
+## Demo
 
 👉 [Live App on Streamlit Cloud](https://healthcare-diagnosis-assistant-nd6exsduhksa5mtoozbhuh.streamlit.app)
 
 ---
 
-## 🧠 Features
+## Features
 
 - Input multiple symptoms via an interactive UI
 - Predict disease using a trained `RandomForestClassifier`
@@ -17,14 +17,14 @@ This is a Streamlit-based web application that predicts potential diseases based
 
 ---
 
-## 📁 Dataset Sources
+## Dataset Sources
 
 - `DiseaseAndSymptoms.csv`: Contains diseases and their associated symptoms.
 - `Disease_precaution.csv`: Maps diseases to suggested precautions.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **Backend**: Python, Pandas, scikit-learn
@@ -33,7 +33,7 @@ This is a Streamlit-based web application that predicts potential diseases based
 
 ---
 
-## 🛠 How to Run Locally
+## How to Run Locally
 
 ```bash
 # 1. Clone the repository
